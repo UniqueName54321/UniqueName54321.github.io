@@ -4,11 +4,10 @@ layout: post
 title: "Why I Moved From WordPress to Jekyll"
 date: 2026-07-29 15:18:00 +0800
 categories:
-
-* blogging
-* jekyll
-* wordpress
-* ai
+- blogging
+- jekyll
+- wordpress
+- ai
 
 ---
 
