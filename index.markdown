@@ -26,7 +26,7 @@ However, I am planning on two projects: "Jaboticaba" and "LycaraOS". They're not
   {% for post in category_posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>— {{ post.date | date: "%-d %B %Y" }}</small>
+      <small> -  {{ post.date | date: "%-d %B %Y" }}</small>
     </li>
   {% endfor %}
 </ul>
