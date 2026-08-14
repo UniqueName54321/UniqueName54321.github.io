@@ -23,7 +23,7 @@ I woke up at 6AM, because it gave me just enough time to do things like like:
 
 The picture below was from 6:40AM, only a mere few minutes before I left for Perth at 6:45AM:
 
-![funny ChatGPT screenshot involving me pretending to be a fish]({{ site.baseurl }}/_posts/vacations/prth/Screenshot_20260730_064031_ChatGPT.jpg)
+![funny ChatGPT screenshot involving me pretending to be a fish]({{ "/assets/images/perth/Screenshot_20260730_064031_ChatGPT.jpg" | relative_url }})
 
 (I sent it to a server I'm in on Discord, and since this server is public, there is a rare but non-zero chance you saw this screenshot as well)
 

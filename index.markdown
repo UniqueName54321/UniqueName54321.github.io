@@ -34,3 +34,9 @@ However, I am planning on two projects: "Jaboticaba" and "LycaraOS". They're not
 {% else %}
 *No posts yet. The blog void remains undisturbed.*
 {% endif %}
+
+<h2>ADVANCED ALL POSTS</h2>
+
+{% for post in site.posts %}
+- {{ post.title }} | {{ post.date }} | {{ post.categories | join: ", " }}
+{% endfor %}
