@@ -1,6 +1,7 @@
 -------------------------------------------
 layout: post
 title: "optimizing https://ha.mr/ even more"
+date: 2026-08-14 04:09:00 +0800
 categories: projects, oped, work
 --------------------------------------------
 
